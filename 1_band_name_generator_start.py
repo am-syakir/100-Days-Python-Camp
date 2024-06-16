@@ -8,8 +8,6 @@
 
 #5. Make sure the input cursor shows on a new line:
 
-# Solution: https://replit.com/@appbrewery/band-name-generator-end
-
 print("Good Morning!")
 
 city = input("Which city did you grew up in? \n")     
